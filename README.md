@@ -31,3 +31,8 @@
 <img src="https://github.com/user-attachments/assets/9dcf63a0-d48e-4833-b241-ee6d1c63a647" alt="Atividade - parte 4" width="700">
 
 <img src="https://github.com/user-attachments/assets/a2dc0a34-96b0-4221-afa5-d841c3928811" alt="Atividade - parte 5" width="700">
+
+## 3. Arquivo Original de Filtragem
+
+📁 [Abrir arquivo: operador_transporte_multimodal.csv](https://github.com/giovannaferreira304-stack/Giovanna-Ferreira22/blob/main/operador_transporte_multimodal.csv)
+<img width="1661" height="728" alt="image" src="https://github.com/user-attachments/assets/3dbfc82d-872d-4831-9075-6c1e3bcfbd1f" />
